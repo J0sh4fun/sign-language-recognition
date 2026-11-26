@@ -1,0 +1,7 @@
+person,phrase,attempt,raw_text,seconds,wrong_pair,repeated_mark,early_commit,notes
+P1,SOS 2026,1,SOS 2026,88,,,,
+P1,AN NA,1,AN NA,18,,,,
+P1,EEE TTT,1,EEE TTT,18,,,,
+P1,SOS 2026,2,SOS 2026,56,,,,
+P1,AN NA,2,AN NA,15,,,,
+P1,EEE TTT,2,EEE TTT,17,,,,
